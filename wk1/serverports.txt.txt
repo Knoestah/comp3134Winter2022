@@ -1,0 +1,28 @@
+Q: What is the definition of Server Port?
+
+A port is an endpoint, most newer computer have both a physical and logical port where connections are engaged.
+computers also have logical ports, these functions the same as physical ports, but they are not tangible.
+
+
+Q: What is server port range?
+
+Our computers have a range of port numbers they will be able to use, you can use any of these to connect to a port.
+
+Q: How many bits does the above number represent?
+
+16 bits, 2 bytes
+
+
+
+Q: State 10 common server ports:
+
+1.  20:  File Transfer Protocol - Data
+2.  22:  Secure SHell (Authentication)
+3.  53:  Domain Name Server
+4.  80:  HTTP
+5.  115: Simple File Transfer Protocol (SFTP)
+6.  118: SQL Services
+7.  156: SQL Services
+8.  194: Internet Relay Chat
+9.  443: HTTPS
+10. 546: DHCP Client
