@@ -1,0 +1,14 @@
+Domain Name Server IP: 194.1.147.31
+www.lifemaideasy.com
+
+Domain Name Server IP: 172.67.174.243
+www.whoisartifact.com
+
+Domain Name Server IP: 52.60.191.37
+https://bb-gbc.blackboard.com/
+
+Domain Name Server IP: 140.82.112.4
+https://github.com/
+
+Domain Name Server IP: 198.96.84.88
+https://mail.georgebrown.ca/
