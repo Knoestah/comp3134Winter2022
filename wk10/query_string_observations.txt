@@ -1,0 +1,4 @@
+1. When typing a valid English word, the website returns the dictonary def if the word. it also displays it in the URL.
+2. Invalid english word returns a message statin no results were found.
+3. Typing the script returns article suggestions.
+4. Typing the script returns article suggestions.

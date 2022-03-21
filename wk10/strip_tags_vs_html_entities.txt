@@ -1,0 +1,2 @@
+strip tags will remove HTML, XML and php  tags
+showing the html entity val of the user input will encode the input into html-friendly representations
