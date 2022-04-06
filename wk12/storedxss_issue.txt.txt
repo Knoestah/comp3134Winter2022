@@ -1,0 +1,1 @@
+Upon reading the file, php executes the text and redirecting it into the url mentioned.
