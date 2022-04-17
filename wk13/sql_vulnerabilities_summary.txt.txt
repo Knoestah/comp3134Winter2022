@@ -1,0 +1,5 @@
+1. Nothing is shown in the table. It is to be expected.
+
+2. Ben's record shows up. It shouldnt have worked since it should only show active accounts.
+
+3. Error shows due to extra quotations, when we use Ben' it should show all records.
